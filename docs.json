@@ -9,7 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": []
+    "dropdowns": [
+      {
+        "dropdown": "Testing",
+        "tabs": [
+          {
+            "tab": "Test",
+            "pages": [
+              "page-1",
+              "page-2"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
