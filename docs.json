@@ -12,28 +12,23 @@
     "dark": "https://media.vylaris.ch/logo/standard.png"
   },
   "navigation": {
-    "dropdowns": [
+    "tabs": [
       {
-        "dropdown": "Products",
-        "tabs": [
-          {
-            "tab": "Company",
-            "pages": [
-              "ueber-uns",
-              "karriere",
-              "partnerschaften"
-            ]
-          },
-          {
-            "tab": "Services",
-            "pages": [
-              "lebenslaeufe-service",
-              "forms-alternative",
-              "pastebin",
-              "vylarischat",
-              "billing-and-payment"
-            ]
-          }
+        "tab": "Company",
+        "pages": [
+          "ueber-uns",
+          "karriere",
+          "partnerschaften"
+        ]
+      },
+      {
+        "tab": "Services",
+        "pages": [
+          "lebenslaeufe-service",
+          "forms-alternative",
+          "pastebin",
+          "vylarischat",
+          "billing-and-payment"
         ]
       }
     ]
