@@ -27,12 +27,7 @@
               "lebenslaeufe-service",
               "forms-alternative",
               "pastebin",
-              "vylarischat"
-            ]
-          },
-          {
-            "tab": "Products",
-            "pages": [
+              "vylarischat",
               "billing-and-payment"
             ]
           }
