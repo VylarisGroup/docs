@@ -7,7 +7,10 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "https://media.vylaris.ch/logo/light.png",
+    "dark": "https://media.vylaris.ch/logo/standard.png"
+  },
   "navigation": {
     "dropdowns": [
       {
@@ -36,8 +39,9 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://media.vylaris.ch/logo/light.png",
+    "dark": "https://media.vylaris.ch/logo/standard.png",
+    "href": "https://vylaris.ch"
   },
   "navbar": {
     "links": [
@@ -70,5 +74,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "default": "dark"
   }
 }
