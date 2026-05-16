@@ -47,7 +47,9 @@
             "tab": "Products",
             "pages": [
               "kuenstliche-intelligenz",
-              "billing-and-payment"
+              "billing-and-payment",
+              "vylarischat",
+              "vylariscv"
             ]
           }
         ]
