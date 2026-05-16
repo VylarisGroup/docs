@@ -11,45 +11,29 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Company",
+        "dropdown": "Products",
         "tabs": [
           {
             "tab": "Company",
             "pages": [
               "ueber-uns",
-              "faq",
               "karriere",
               "partnerschaften"
             ]
-          }
-        ]
-      },
-      {
-        "dropdown": "Services",
-        "tabs": [
+          },
           {
             "tab": "Services",
             "pages": [
-              "hosting",
-              "domain-reselling",
               "lebenslaeufe-service",
               "forms-alternative",
               "pastebin",
-              "sicherheit"
+              "vylarischat"
             ]
-          }
-        ]
-      },
-      {
-        "dropdown": "Products",
-        "tabs": [
+          },
           {
             "tab": "Products",
             "pages": [
-              "kuenstliche-intelligenz",
-              "billing-and-payment",
-              "vylarischat",
-              "vylariscv"
+              "billing-and-payment"
             ]
           }
         ]
