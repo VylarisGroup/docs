@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "VylarisGroup Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1867f8",
+    "light": "#95b7f7",
+    "dark": "#053184"
   },
   "favicon": {
     "light": "https://media.vylaris.ch/logo/light.png",
